@@ -1,0 +1,14 @@
+[
+
+{"name": "央视频",    "url": "../tv/yslive.txt"},
+{"name": "电视家",   "url": "../live.txt"},
+{"name": "直播1",    "url": "../tv/mtv.txt"},
+{"name": "直播2",    "url": "../tv/l202310V4B.m3u"},
+{"name": "直播3",    "url": "../tv/live1.m3u"},
+{"name": "IPTV6",   "url": "../tv/zhibo.json"},
+{"name": "直播4",    "url": "../tv/202310V4B.m3u"},
+{"name": "山东",    "url": "../tv/shandong.m3u"},
+{"name": "初秋语",  "url": "../tv/初秋语.txt"}
+
+
+]

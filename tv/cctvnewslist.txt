@@ -1,0 +1,10 @@
+cctv1,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv1
+cctv2,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv2
+cctv4,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv4
+cctv7,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv7
+cctv9,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv9
+cctv10,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv10
+cctv12,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv12
+cctv13,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv13
+cctv17,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv17
+cctv4k,https://8.145.55.221/T4/cctvnewsapp.php?id=cctv4k

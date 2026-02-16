@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "快直播(python)",
+      "type": 3,
+      "api": "http://cqshushu.ggff.net:2086/fm/kzb.py",
+      "ext": {}
+    }
+  ]
+}

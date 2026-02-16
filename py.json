@@ -1,0 +1,558 @@
+{
+    "spider": "",
+    "wallpaper": "https://bing.img.run/rand.php",
+    "sites": [
+    {
+            "key": "py_tangdou",
+            "name": "糖豆",
+            "type": 3,
+            "api": "./py/tangdou.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+   {
+            "key": "py_xiaokeyunyue",
+            "name": "小可音乐",
+            "type": 3,
+            "api": "./py/小可音乐.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_yangshipianku",
+            "name": "央视片库",
+            "type": 3,
+            "api": "./py/py_yangshipianku.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_1905",
+            "name": "1905电影网",
+            "type": 3,
+            "api": "./py/py_1905.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_cctv",
+            "name": "py_cctv",
+            "type": 3,
+            "api": "./py/py_cctv.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_bilibilivd",
+            "name": "py_哔哩",
+            "type": 3,
+            "api": "./py/py_bilibilivd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "categories": "DJ舞曲#沙雕动画#相声小品",
+                "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
+            },
+            "changeable": 1
+        },
+        {
+            "key": "腾讯视频",
+            "name": "py_腾讯",
+            "type": 3,
+            "api": "./py/py_腾.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "优酷视频",
+            "name": "py_优酷",
+            "type": 3,
+            "api": "./py/py_优酷.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "HiTV",
+            "name": "py_hitv",
+            "type": 3,
+            "api": "./py/py_hitv.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_lemonlive",
+            "name": "py_直播",
+            "type": 3,
+            "api": "./py/py_lemonlive.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_mp",
+            "name": "py_mp",
+            "type": 3,
+            "api": "./py/py_mp.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_aiyangshi",
+            "name": "py_aiyangshi",
+            "type": 3,
+            "api": "./py/aiyangshi.py",
+            "jar": "./jar/spider.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_alist",
+            "name": "py_alist",
+            "type": 3,
+            "api": "./py/py_alist.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_cctv66",
+            "name": "py_cctv66",
+            "type": 3,
+            "api": "./py/py_cctv66.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctv_1",
+            "name": "py_cctv_1",
+            "type": 3,
+            "api": "./py/py_cctv_1.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctv1",
+            "name": "py_cctv1",
+            "type": 3,
+            "api": "./py/py_cctv1.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctv2",
+            "name": "py_cctv2",
+            "type": 3,
+            "api": "./py/py_cctv2.json",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvdy",
+            "name": "py_cctvdy",
+            "type": 3,
+            "api": "./py/py_cctvdy.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvjs",
+            "name": "py_cctvjs",
+            "type": 3,
+            "api": "./py/py_cctvjs.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvkj",
+            "name": "py_cctvkj",
+            "type": 3,
+            "api": "./py/py_cctvkj.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvny",
+            "name": "py_cctvny",
+            "type": 3,
+            "api": "./py/py_cctvny.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvse",
+            "name": "py_cctvse",
+            "type": 3,
+            "api": "./py/py_cctvse.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvty",
+            "name": "py_cctvty",
+            "type": 3,
+            "api": "./py/py_cctvty.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvxq",
+            "name": "py_cctvxq",
+            "type": 3,
+            "api": "./py/py_cctvxq.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvxw",
+            "name": "py_cctvxw",
+            "type": 3,
+            "api": "./py/py_cctvxw.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvyy",
+            "name": "py_cctvyy",
+            "type": 3,
+            "api": "./py/py_cctvyy.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvzh",
+            "name": "py_cctvzh",
+            "type": 3,
+            "api": "./py/py_cctvzh.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cctvzy",
+            "name": "py_cctvzy",
+            "type": 3,
+            "api": "./py/py_cctvzy.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_cup",
+            "name": "py_cup",
+            "type": 3,
+            "api": "./py/py_cup.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_douyu",
+            "name": "py_douyu",
+            "type": 3,
+            "api": "./py/py_douyu.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_kuWo",
+            "name": "py_kuWo",
+            "type": 3,
+            "api": "./py/py_kuWo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_huya",
+            "name": "py_huya",
+            "type": 3,
+            "api": "./py/py_huya.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_Phb",
+            "name": "py_Phb",
+            "type": 3,
+            "api": "./py/py_Phb.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "kunyu77",
+            "name": "kunyu77",
+            "type": 3,
+            "api": "./py/kunyu77.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_Xhm",
+            "name": "py_Xhm",
+            "type": 3,
+            "api": "./py/py_Xhm.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_xpg",
+            "name": "py_xpg",
+            "type": 3,
+            "api": "./py/py_xpg.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_爱",
+            "name": "py_爱",
+            "type": 3,
+            "api": "./py/py_爱.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_光速",
+            "name": "py_光速",
+            "type": 3,
+            "api": "./py/py_光速.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_金牌",
+            "name": "py_金牌",
+            "type": 3,
+            "api": "./py/py_金牌.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_剧多短剧",
+            "name": "py_剧多短剧",
+            "type": 3,
+            "api": "./py/py_剧多短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_芒",
+            "name": "py_芒",
+            "type": 3,
+            "api": "./py/py_芒.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_视觉",
+            "name": "py_视觉",
+            "type": 3,
+            "api": "./py/py_视觉.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_胖虎",
+            "name": "py_胖虎",
+            "type": 3,
+            "api": "./py/py_胖虎.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_腾",
+            "name": "py_腾",
+            "type": 3,
+            "api": "./py/py_腾.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+        {
+            "key": "py_小红薯",
+            "name": "py_小红薯",
+            "type": 3,
+            "api": "./py/py_小红薯.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_浴火社",
+            "name": "py_浴火社",
+            "type": 3,
+            "api": "./py/py_浴火社.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_xigua",
+            "name": "py_xigua",
+            "type": 3,
+            "api": "./py/py_xigua.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_中国文化",
+            "name": "py_中国文化",
+            "type": 3,
+            "api": "./py/py_中国文化.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }
+    ],
+    "lives": [
+        {
+            "name": "河南IPTV",
+            "type": 0,
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+            "epg": "http://epg.51zmt.top:8000/e.xml",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": "3",
+            "playerType": 2
+        }
+    ]
+}

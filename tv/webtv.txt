@@ -1,0 +1,182 @@
+
+青海卫视,video://https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=396b4ae21740988972
+甘肃卫视,video://https://hls.gstv.com.cn/9hvng2/m96r7x.m3u8
+甘肃文化影视,video://https://hls.gstv.com.cn/9hvng2/tbq0aj.m3u8
+甘肃公共应急,video://https://hls.gstv.com.cn/9hvng2/t16sp1.m3u8
+甘肃少儿,video://https://hls.gstv.com.cn/9hvng2/zb7122.m3u8
+甘肃科教,video://https://hls.gstv.com.cn/9hvng2/xcl739.m3u8
+甘肃移动,video://https://hls.gstv.com.cn/94ycke/v9qci2.m3u8
+威海新闻综合,video://http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+威海海洋3,video://http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
+威海都市生活,video://http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+安徽卫视,video://https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=1e7f08371740985495
+安徽经济与生活,video://https://live4.ahtv.cn/jjsh1/playlist.m3u8?_upt=fa2483771740986024
+安徽综艺体育,video://https://live5.ahtv.cn/zyty1/playlist.m3u8?_upt=90c203531740986009
+安徽影视,video://https://live4.ahtv.cn/yspd1/playlist.m3u8?_upt=ba8d20441740986207
+安徽农业科教,video://https://live5.ahtv.cn/kjpd/playlist.m3u8?_upt=6cbc85651740986291
+安徽公共,video://https://live5.ahtv.cn/ahgg/playlist.m3u8?_upt=877cea201740986242
+安徽国际,video://https://live5.ahtv.cn/ahgj1/playlist.m3u8?_upt=0af8cb841740986326
+内蒙古卫视,video://https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+内蒙古新闻,video://https://1500019606.vod2.myqcloud.com/43987fe6vodtranscq1500019606/8ed1dad61397757906314980468/v.f1499976.mp4?t=1955f8eacb0&sign=a857760660d7ee2d1dc6bed627ea1538
+山西卫视,video://https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sh84V.m3u8
+山西文体与生活,video://https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/b39g04X.m3u8
+山西社会与法,video://https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/71dir45.m3u8
+山西影视,video://https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/26idm47.m3u8
+山西经济与科教,video://https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/j61d740.m3u8
+山西黄河,video://https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/r1thc41.m3u8
+cctv1高清,video://https://app.hfbtc.cn/hls/ggpd.m3u8?key=59e852ef407876232a6210781cec3de6&st=5xfV90X4GbFhEzyPse_-ww&e=1740980807
+河南卫视,video://http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f686569c48329661aa56949182e004fb&wsTime=1741107338
+新闻频道,video://http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=e7d20d5dd335fae6af6675de7df22203&wsTime=1741107338
+都市频道,video://http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=835a79c44382b4cd9dddd19260005bab&wsTime=1741107338
+民生频道,video://http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=cbfa9e72f26312cd803f2c60eabb171e&wsTime=1741107338
+法治频道,video://http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=934f72fb9b6492e413280d89a5bd0a5a&wsTime=1741107338
+公共频道,video://http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=8a39b58672e4df4a41df0db9566f128c&wsTime=1741107338
+河南乡村频道,video://http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=b5ce80205e4a62ee5d39f27e0da5e722&wsTime=1741107338
+电视剧频道,video://http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=5fb1da5a09b31f63d75e4504703acbc2&wsTime=1741107338
+梨园频道,video://http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=baac2284ccab15139580e988ead1f2a3&wsTime=1741107338
+文物宝库,video://http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=690cb240568375c13aef407e3910080d&wsTime=1741107338
+武术频道,video://http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=4e7a6ac66204d3a6c3c58cb344263fa0&wsTime=1741107338
+睛彩中原,video://http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=bad8b2b26a11ba91bf193140d1b6d8ed&wsTime=1741107338
+移动戏曲频道,video://https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=2c874953865453f2ec18550667432165&wsTime=1741107338
+象视界,video://http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=72da8aaf6cf279752b8fbfba73d56dfb&wsTime=1741107338
+
+欢腾购物,video://http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=c701d6432e13ef188a942c29c8e44851&wsTime=1741107338
+
+欢腾购物,video://http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=73d333f15ef09a07f8c1a5d4eb36f131&wsTime=1740988822
+
+
+CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+河南都市,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
+河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
+河南梨园,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+CECTV-1 汉语文化,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-1 汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-2 国际旅游,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-2 国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-3 国际教育,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-3 国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-4 国际健康,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CECTV-4 国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CGTN,video://https://www.cgtn.com/tv
+CGTN,video://https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN Español,video://https://espanol.cgtn.com/en-directo
+CGTN Español,video://https://www.yangshipin.cn/tv/home?pid=600084744
+CGTN Français,video://https://francais.cgtn.com/channel
+CGTN Français,video://https://www.yangshipin.cn/tv/home?pid=600084704
+CGTN العربية,video://https://arabic.cgtn.com/channel
+CGTN العربية,video://https://www.yangshipin.cn/tv/home?pid=600084782
+CGTN Русский,video://https://russian.cgtn.com/channel
+CGTN Русский,video://https://www.yangshipin.cn/tv/home?pid=600084758
+CGTN Documentary,video://https://www.cgtn.com/channel/documentary
+CGTN Documentary,video://https://www.yangshipin.cn/tv/home?pid=600084781
+康巴卫视,video://https://www.kangbatv.com/zb_22587/
+海峡卫视,video://https://www.fjtv.net/folder526/folder536/
+山西卫视,video://https://www.sxrtv.com/tv/index.shtml
+内蒙古卫视,video://https://www.nmtv.cn/liveTv
+陕西卫视,video://http://www.sxtvs.com/sxtvs_sxws/index.html
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+佛山顺德,video://http://xiubo.net/tv/gd/fssd.html
+佛山公共,video://http://xiubo.net/tv/gd/fsgg.html
+佛山影视,video://http://xiubo.net/tv/gd/fsys.html
+佛山高明,video://http://xiubo.net/tv/gd/fsgm.html
+佛山三水,video://http://xiubo.net/tv/gd/fsss.html
+佛山综合,video://http://xiubo.net/tv/gd/fszh.html
+佛山南海,video://http://xiubo.net/tv/gd/fsnh.html
+成都新闻,video://https://www.cditv.cn/show/4845-563.html
+江苏卫视,video://https://live.jstv.com/?channelId=534
+江苏城市,video://https://live.jstv.com/?channelId=535
+江苏综艺,video://https://live.jstv.com/?channelId=556
+江苏影视,video://https://live.jstv.com/?channelId=542
+江苏新闻,video://https://live.jstv.com/?channelId=536
+江苏教育,video://https://live.jstv.com/?channelId=545
+江苏体育,video://https://live.jstv.com/?channelId=537
+江苏国际,video://https://live.jstv.com/?channelId=544
+优漫卡通,video://https://live.jstv.com/?channelId=543
+河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+农民频道,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北都市,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+河北影视剧,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+少儿科教,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+浙江卫视,video://https://www.cztv.com/liveTV/101
+浙江钱江,video://https://www.cztv.com/liveTV/102
+浙江经济生活,video://https://www.cztv.com/liveTV/103
+浙江教科影视,video://https://www.cztv.com/liveTV/104
+浙江民生休闲,video://https://www.cztv.com/liveTV/106
+浙江新闻,video://https://www.cztv.com/liveTV/107
+浙江少儿,video://https://www.cztv.com/liveTV/108
+浙江国际,video://https://www.cztv.com/liveTV/110
+浙江之江纪录,video://https://www.cztv.com/liveTV/112
+杭州综合,video://https://tv.hoolo.tv/hzzh/
+西湖明珠,video://https://tv.hoolo.tv/xhmz/
+杭州生活,video://https://tv.hoolo.tv/hzsh/
+杭州影视,video://https://tv.hoolo.tv/utv/
+杭州青少体育,video://https://tv.hoolo.tv/hzse/
+杭州文化,video://https://tv.hoolo.tv/whpd/
+宁波新闻综合,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+宁波经济生活,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
+宁波都市文体,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
+宁波影视剧,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
+绍兴新闻综合,video://https://www.shaoxing.com.cn/app/tv/74
+绍兴新闻综合,video://http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴公共,video://https://www.shaoxing.com.cn/app/tv/78
+绍兴公共,video://http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴文化影视,video://https://www.shaoxing.com.cn/app/tv/75
+绍兴文化影视,video://http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+安徽经济生活,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
+安徽综艺体育,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+安徽影视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+安徽公共,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+安徽农业科教,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
+安徽国际,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
+安徽移动,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
+淮北新闻综合,video://https://www.hbnews.net/tv/
+亳州综合,video://https://www.ahbztv.com/televisi0n.html
+滁州新闻综合,video://http://www.cztv.cc/Live/index?liveid=1
+滁州公共,video://http://www.cztv.cc/Live/index?liveid=2
+滁州科教,video://http://www.cztv.cc/Live/index?liveid=3
+芜湖新闻综合,video://http://www.wuhubtv.com/folder1194/#
+贵州卫视,video://https://www.gzstv.com/tv/ch01
+贵州公共,video://https://www.gzstv.com/tv/ch02
+贵州影视文艺,video://https://www.gzstv.com/tv/ch03
+贵州大众生活,video://https://www.gzstv.com/tv/ch04
+贵州生态乡村,video://https://www.gzstv.com/tv/ch05
+贵州科教健康,video://https://www.gzstv.com/tv/ch06
+贵州移动,video://https://www.gzstv.com/tv/ch13
+山西卫视,video://https://www.sxrtv.com/tv/index.shtml
+太原新闻综合,video://https://www.sxtygdy.com/23/23mbdszb/index.shtml
+阳泉新闻综合,video://https://www.yqrtv.com/folder74/folder139?id=10
+阳泉科教,video://https://www.yqrtv.com/folder74/folder139?id=11
+吉林卫视,video://https://www.jlntv.cn/tv?id=104
+哈尔滨新闻综合,video://https://www.hrbtv.net/folder79/folder81/
+哈尔滨生活,video://https://www.hrbtv.net/folder79/folder85/
+哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
+海南卫视,video://http://tc.hnntv.cn/
+三沙卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
+海南新闻,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
+海南公共,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
+海南文旅,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
+海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+海南自贸,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1
+东南卫视,video://https://live.fjtv.net/setv/
+海峡卫视,video://https://www.fjtv.net/folder526/folder536/
+福建新闻,video://https://live.fjtv.net/xwpd/
+福建旅游,video://https://live.fjtv.net/dspd/
+福建公共,video://https://live.fjtv.net/ggpd/
+福建经视,video://https://live.fjtv.net/jspd/
+厦门新闻综合,video://https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
+厦门海峡,video://https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+厦门海峡,video://https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8

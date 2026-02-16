@@ -1,0 +1,26 @@
+[
+  
+  {
+    "name": "自用源本地",
+    "url": "./tv/酒店源/自抓取源.txt",
+    "img": "./tv/beijing.jpg"
+  },
+  
+  {
+    "name": "自用源",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/canghaixiao369/zy/refs/heads/main/tv/%E9%85%92%E5%BA%97%E6%BA%90/%E8%87%AA%E6%8A%93%E5%8F%96%E6%BA%90.txt",
+    "img": "https://ghproxy.net/https://raw.githubusercontent.com/canghaixiao369/zy/refs/heads/main/tv/beijing.jpg"
+  },
+
+  {
+    "name": "GitHub-TXT",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "img": "https://ghproxy.net/https://raw.githubusercontent.com/canghaixiao369/zy/refs/heads/main/tv/beijing.jpg"
+  },
+  {
+    "name": "GitHub-M3U",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+    "img": "https://ghproxy.net/https://raw.githubusercontent.com/canghaixiao369/zy/refs/heads/main/tv/beijing.jpg"
+  }
+  
+]
