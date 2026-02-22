@@ -112,6 +112,16 @@
       "jar": "./jar/spider.jar"
     },
     {
+      "key": "應用商店",
+      "name": "♻️影视软件下载商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/商店.json",
+      "jar": "./jar/spider2.jar"
+    },
+    {
       "jar": "./jar/pg.jar",
       "key": "csp_Market",
       "name": "🏪应用商店",
@@ -3414,17 +3424,8 @@
       "changeable": 0,
       "indexs": 0,
       "ext": "https://d.kstore.dev/download/11354/market.json"
-    },
-    {
-      "key": "應用商店",
-      "name": "♻️影视软件下载商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/商店.json",
-      "jar": "./jar/spider2.jar"
     }
+     
   ],
   "parses": [
   
