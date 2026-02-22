@@ -9,19 +9,19 @@
         ]
     },
     {
-        "name": "壳子内置版",
+        "name": "OK影视",
         "list": [
             {
-                "name": "影视TV内置",
-                "url": "http://111.67.195.139/本地包/影视TV版_2.0.7.apk",
-                "icon": "http://111.67.195.139/jpg/r8nk2.png",
-                "version": "v7a"
+                "name": "OK影视手机版",
+                "url": "https://gh.catmak.name/https://github.com/canghaixiao369/xa/blob/main/apk/OK%E5%BD%B1%E8%A7%86-%E6%89%8B%E6%9C%BA%E7%89%88-3.6.8.apk",
+                "icon": "https://gh.catmak.name/https://github.com/canghaixiao369/xa/blob/2eff5ebf0832666a1a9b294a85d4fcb349cbb548/apk/1.jpg",
+                "version": "3.7.0"
             },
             {
-                "name": "业余影视",
-                "url": "http://111.67.195.139/本地包/业余影视.apk",
-                "icon": "http://111.67.195.139/jpg/yy.png",
-                "version": "1028"
+                "name": "OK影视电视版",
+                "url": "https://gh.catmak.name/https://github.com/canghaixiao369/xa/blob/main/apk/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-3.6.8.apk",
+                "icon": "https://gh.catmak.name/https://github.com/canghaixiao369/xa/blob/2eff5ebf0832666a1a9b294a85d4fcb349cbb548/apk/2.jpg",
+                "version": "3.7.0"
             },
             {
                 "name": "影视仓内置",
