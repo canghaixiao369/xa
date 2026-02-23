@@ -111,16 +111,7 @@
       "ext": "./json/吾爱自用.json",
       "jar": "./jar/spider.jar"
     },
-    {
-      "key": "應用商店",
-      "name": "♻️影视软件下载商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/商店.json",
-      "jar": "./jar/spider2.jar"
-    },
+    
     {
       "jar": "./jar/pg.jar",
       "key": "csp_Market",
@@ -3413,6 +3404,16 @@
       "api": "./api/drpy2.min-1.js",
       "ext": "./JS/36影视.js",
       "jar": "./jar/jcsq.jar"
+    },
+    {
+      "key": "應用商店",
+      "name": "♻️影视软件下载商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/商店.json",
+      "jar": "./jar/spider2.jar"
     },
     {
       "key": "版本信息",
