@@ -191,6 +191,17 @@
       "ext": "./JS/172MV[音].js"
     },
     {
+            "key": "py_wanhongda",
+            "name": "万宏达影院",
+            "type": 3,
+            "api": "./py/万宏达影院.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+    {
       "key": "py_深港音乐",
       "name": "🍈深港音乐[音][PY]",
       "type": 3,
